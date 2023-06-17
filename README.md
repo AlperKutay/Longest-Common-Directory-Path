@@ -1,4 +1,4 @@
-#Longest-Common-Directory-Path
+# Longest-Common-Directory-Path
 
 In this project we get inputs with arguments
 Therefore you should run the program with arguments 
